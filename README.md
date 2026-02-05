@@ -7,5 +7,7 @@ On the backend, I used HashMap to store users by their ID so that I can quickly 
 
 Whenever a score changes, I remove the user from the TreeSet, update the score, and insert it again so that the ranking always remains correct.
  **Technolgy Used**
+ 
  **Frontend** : ReactJS + Vite
+ 
  **Backend**  : Java, SpringBoot
